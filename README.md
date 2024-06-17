@@ -1,5 +1,7 @@
 # game-tucolandia
 
+# OBS: Não subi o jogo para o o GITHUB pois o arquivo é maior que os 25 mb suportados pelo GITHUB, portanto deixo esse link do DRIVE que contém todo o projeto desenvolvido, peço encarecidamente que considere da mesma maneira: https://drive.google.com/file/d/1tdmfdFUT95-4ZCxqcyNFoMtW8ThosQtc/view?usp=sharing
+
 # Tucolândia: O Jogo de Sobrevivência na Cidade
 Bem-vindo a Tucolândia, um emocionante jogo de sobrevivência onde cada decisão pode ser a diferença entre a vida e a morte! Em uma cidade tomada pelo caos;
 
