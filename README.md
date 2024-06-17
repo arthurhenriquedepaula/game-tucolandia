@@ -129,6 +129,7 @@ Tela inicial:
 ![cidade](https://github.com/arthurhenriquedepaula/game-tucolandia/assets/81483650/0ceb336c-c1b7-4082-ae36-d89ae4bac02b)
 
 # LINK do vídeo:
+https://youtu.be/1AG-mfZtoSE
 
 
 
