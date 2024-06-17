@@ -123,6 +123,7 @@ Sobrevivência: Explore a cidade, onde você poderá ver uma perseguição de zu
 
 PRINTS:
 Tela inicial:
+
 ![tela_inicio](https://github.com/arthurhenriquedepaula/game-tucolandia/assets/81483650/5004881d-118e-4270-8de3-43307d43eadd)
 ![carro-zumbi](https://github.com/arthurhenriquedepaula/game-tucolandia/assets/81483650/3fdbe648-4815-423d-a007-6b431c4ca6df)
 ![cidade](https://github.com/arthurhenriquedepaula/game-tucolandia/assets/81483650/0ceb336c-c1b7-4082-ae36-d89ae4bac02b)
